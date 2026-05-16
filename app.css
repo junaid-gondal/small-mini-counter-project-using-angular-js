@@ -1,0 +1,40 @@
+div
+{   margin-top: 20px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    width: 100px;
+    height: 100px;
+    margin:0 15px;
+    border-radius: 50%;
+    font-style: normal;
+
+}
+button:hover
+{
+    background-color: beige;
+    border: 5pxsolid black;
+}
+.inputt
+{
+    width: 80px;
+    height: 50px;
+    border-radius: 50px;
+    text-align: right;
+    font-size: large;
+    background-color: rgb(253, 255, 240);
+}
+.b1
+{
+    background-color: green;
+}
+.b2
+{
+    background-color: skyblue;
+}
+.b3
+{
+    background-color: red;
+}
